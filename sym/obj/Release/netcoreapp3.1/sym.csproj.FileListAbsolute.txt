@@ -1,0 +1,14 @@
+C:\Users\2\Source\Repos\artemsh1\firstgit\sym\bin\Release\netcoreapp3.1\sym.exe
+C:\Users\2\Source\Repos\artemsh1\firstgit\sym\bin\Release\netcoreapp3.1\sym.deps.json
+C:\Users\2\Source\Repos\artemsh1\firstgit\sym\bin\Release\netcoreapp3.1\sym.runtimeconfig.json
+C:\Users\2\Source\Repos\artemsh1\firstgit\sym\bin\Release\netcoreapp3.1\sym.runtimeconfig.dev.json
+C:\Users\2\Source\Repos\artemsh1\firstgit\sym\bin\Release\netcoreapp3.1\sym.dll
+C:\Users\2\Source\Repos\artemsh1\firstgit\sym\bin\Release\netcoreapp3.1\sym.pdb
+C:\Users\2\Source\Repos\artemsh1\firstgit\sym\obj\Release\netcoreapp3.1\sym.csproj.AssemblyReference.cache
+C:\Users\2\Source\Repos\artemsh1\firstgit\sym\obj\Release\netcoreapp3.1\sym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2\Source\Repos\artemsh1\firstgit\sym\obj\Release\netcoreapp3.1\sym.AssemblyInfoInputs.cache
+C:\Users\2\Source\Repos\artemsh1\firstgit\sym\obj\Release\netcoreapp3.1\sym.AssemblyInfo.cs
+C:\Users\2\Source\Repos\artemsh1\firstgit\sym\obj\Release\netcoreapp3.1\sym.csproj.CoreCompileInputs.cache
+C:\Users\2\Source\Repos\artemsh1\firstgit\sym\obj\Release\netcoreapp3.1\sym.dll
+C:\Users\2\Source\Repos\artemsh1\firstgit\sym\obj\Release\netcoreapp3.1\sym.pdb
+C:\Users\2\Source\Repos\artemsh1\firstgit\sym\obj\Release\netcoreapp3.1\sym.genruntimeconfig.cache
