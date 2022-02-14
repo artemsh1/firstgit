@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2\\Source\\Repos\\artemsh1\\firstgit\\naibchislo\\naibchislo.csproj": {}
+    "C:\\Users\\2\\source\\repos\\artemsh1\\firstgit\\naibchislo\\naibchislo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2\\Source\\Repos\\artemsh1\\firstgit\\naibchislo\\naibchislo.csproj": {
+    "C:\\Users\\2\\source\\repos\\artemsh1\\firstgit\\naibchislo\\naibchislo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2\\Source\\Repos\\artemsh1\\firstgit\\naibchislo\\naibchislo.csproj",
+        "projectUniqueName": "C:\\Users\\2\\source\\repos\\artemsh1\\firstgit\\naibchislo\\naibchislo.csproj",
         "projectName": "naibchislo",
-        "projectPath": "C:\\Users\\2\\Source\\Repos\\artemsh1\\firstgit\\naibchislo\\naibchislo.csproj",
+        "projectPath": "C:\\Users\\2\\source\\repos\\artemsh1\\firstgit\\naibchislo\\naibchislo.csproj",
         "packagesPath": "C:\\Users\\2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2\\Source\\Repos\\artemsh1\\firstgit\\naibchislo\\obj\\",
+        "outputPath": "C:\\Users\\2\\source\\repos\\artemsh1\\firstgit\\naibchislo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\2\\AppData\\Roaming\\NuGet\\NuGet.Config",
