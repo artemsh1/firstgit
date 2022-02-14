@@ -13,7 +13,7 @@ namespace sravnenie
 			{
 				Console.WriteLine("Цифр больше в 1 числе");
 			}
-			else if (GetCompasion(ch1, ch2)) 
+			else if (GetCompasionn(ch1, ch2)) 
 			{
 				Console.WriteLine("Цифр больше в 2 числе");
 			}
